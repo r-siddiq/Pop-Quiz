@@ -4,8 +4,8 @@ A lightweight, **frontend-only** quiz built with **HTML, vanilla JavaScript, and
 It renders ten US-geography questions using a mix of inputs (text, select, checkboxes, and radio buttons), gives immediate, color-coded feedback with icons, and tracks **total attempts** via `localStorage`.
 
 - **Live demo:** https://www.r-siddiq.tech/Pop-Quiz/
-- **Tech:** HTML5, Bootstrap 5 (CDN), Underscore.js (CDN for shuffling), Vanilla JS
 - **Additonal context:** https://www.rsiddiq.com/internet-programming.html
+- **Tech:** HTML5, Bootstrap 5 (CDN), Underscore.js (CDN for shuffling), Vanilla JS
 
 ---
 
