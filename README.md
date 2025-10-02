@@ -5,6 +5,7 @@ It renders ten US-geography questions using a mix of inputs (text, select, check
 
 - **Live demo:** https://www.r-siddiq.tech/Pop-Quiz/
 - **Tech:** HTML5, Bootstrap 5 (CDN), Underscore.js (CDN for shuffling), Vanilla JS
+- **Additonal context:** https://www.rsiddiq.com/internet-programming.html
 
 ---
 
