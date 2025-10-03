@@ -23,6 +23,7 @@ It renders ten US-geography questions using a mix of inputs (text, select, check
 
 ## Project Structure
 
+```
 Pop-Quiz/
 ├─ index.html
 ├─ js/
@@ -30,6 +31,7 @@ Pop-Quiz/
 └─ img/
    ├─ checkmark.png
    └─ xmark.png
+```
 
 ---
 
